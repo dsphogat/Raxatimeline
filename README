@@ -1,0 +1,16 @@
+Author: Digvijay Singh
+
+Contents --->
+
+1. COMPILED : Files containing Timeline JS implementation
+2. index.html: The html file with timeline example implemented
+3. modeli.jsonp: A jsonp file describing the timeline architecture according to the Timeline JS. 
+
+Instructions --->
+
+1. Copy the code into the desired folder.
+2. Run index.html in a web browser
+3. Watch the timeline come to life.
+
+Note: This is just an introduction to Timeline JS implementation and is to be treated as an example for education purpose.
+Credits: timeline.verite.co/
