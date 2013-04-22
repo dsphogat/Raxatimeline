@@ -1,0 +1,23 @@
+<html>
+<head>
+        <!-- jQuery -->
+        <script type="text/javascript" src="compiled/lib/jquery-min.js"></script>
+        <!-- BEGIN TimelineJS -->
+        <script type="text/javascript" src="compiled/js/storyjs-embed.js"></script>
+        <script>
+            $(document).ready(function() {
+                createStoryJS({
+                    type:       'timeline',
+                    width:      '800',
+                    height:     '600',
+                    source:     'modeli.jsonp',
+                    embed_id:   'my-timeline'
+                });
+            });
+        </script>
+        <!-- END TimelineJS -->
+    </head>
+    <body>  
+        <div id="my-timeline"></div>
+    </body>
+</html>

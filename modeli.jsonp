@@ -1,0 +1,48 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"Health Information Technology",
+        "type":"default",
+        "text":"<p>This is an introduction to Raxa timelines</p>",
+        "asset": {
+            "media":"https://secure.gravatar.com/avatar/efa28c073b117550413a1c4aef1fa3a9?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
+            "credit":"Digvijay Singh",
+            "caption":"GSoC 2013"
+        },
+        "date": [
+            {
+                "startDate":"2013,04,18",
+                "endDate":"2013,04,22",
+                "headline":"Timeline JS Implementation",
+                "text":"<p>Learning Timeline JS</p>",
+                "tag":"Work Started",
+                "classname":"raxahome",
+                "asset": {
+                    "media":"http://raxa.org/",
+                    "thumbnail":"optional-32x32px.jpg",
+                    "credit":"Raxa",
+                    "caption":"Raxa dashboard"
+                }
+            }
+        ],
+        "era": [
+            {
+                "startDate":"2013,04,18",
+                "endDate":"2013,04,22",
+                "headline":"Patient Timeline",
+                "tag":"This is Digvijay"
+            }
+
+        ],
+        "chart": [
+            {
+                "startDate":"2013,04,18",
+                "endDate":"2013,04,22",
+                "headline":"Done Digvijay Singh",
+                "value":"28"
+            }
+
+        ]
+
+    }
+}
